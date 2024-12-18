@@ -1,0 +1,46 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dll
+*.pdb
+*.cache
+
+# Visual Studio
+.vs/
+*.ncrunch*
+*.ReSharper*
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files
+appsettings.Development.json
+appsettings.Production.json
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
